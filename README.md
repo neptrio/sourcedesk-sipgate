@@ -1,2 +1,4 @@
-# sourceDESK sipgate-Anbindung
-Anbindung an sipgate für sourceway
+# sourceDESK sipgate-Connector
+Anbindung an sipgate für sourceDesk
+
+## Installation
